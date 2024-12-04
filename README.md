@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on economics research projects
+- 🌱 I’m learning economics, with a specific focus on development economics
 
 <!--
 **rk-cello/rk-cello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
